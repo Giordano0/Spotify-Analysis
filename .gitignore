@@ -9,7 +9,7 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Dataset (too large + Kaggle license)
+# Dataset
 data/dataset.csv
 
 # IDE
